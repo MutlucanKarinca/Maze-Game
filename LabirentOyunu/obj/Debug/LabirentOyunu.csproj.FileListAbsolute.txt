@@ -1,0 +1,10 @@
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.Form1.resources
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.Properties.Resources.resources
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.GenerateResource.cache
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\mutlu\source\repos\Kurs2\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
